@@ -1,4 +1,4 @@
-## RISE - Data Science & Analytics##
+## RISE - Data Science & Analytics
 
 As a Data Science & Analytics Intern at Tamizhan Skills (RISE), I worked on real-world projects focused on business, education, healthcare, and technology. 
 The internship involved solving data-driven problems using statistical analysis, machine learning models, and data visualization tools.
